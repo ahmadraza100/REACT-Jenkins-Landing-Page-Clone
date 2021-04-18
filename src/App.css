@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.carsoul{
+  height:50vh;
+  width: 100vw;
+  background-size: cover;
+}
+
+.carousel Carousel.Item {
+  height: 100vh;
+}
+li{
+  font-size: .8rem;
+  text-align: left;
+}
+li>a{
+  text-decoration: none;
+  color:white;
+
+}
+
+h5{
+  font-size: .7rem;
+  color:white;
+  text-align: center;
+  ;
+}
+p{
+  font-size: .9rem;
+  width:20vw;
+  margin: auto;
+  color:white;
+  text-align: left;
+}
+
+li> a:hover{
+  color:red;
+}
+
+.carousel-inner {
+
+  max-height: 400px;
+  display: flex;
+  
+  
+   
+  
+  }
+ .w-100{
+  
+    max-height: 400px;
+    
+    }    
+  
+
+
+.cardd{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
